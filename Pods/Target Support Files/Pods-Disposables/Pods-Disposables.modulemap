@@ -1,0 +1,6 @@
+framework module Pods_Disposables {
+  umbrella header "Pods-Disposables-umbrella.h"
+
+  export *
+  module * { export * }
+}
